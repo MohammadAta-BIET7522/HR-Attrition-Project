@@ -60,7 +60,7 @@ HR-Attrition-Project/
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/your-username/HR-Attrition-Project.git
+git clone https://github.com/MohammadAta-BIET7522/HR-Attrition-Project.git
 cd HR-Attrition-Project
 ```
 
@@ -102,7 +102,7 @@ streamlit run app.py
 
 ## 🔗 Live Demo
 
-(Add your Streamlit link here)
+https://mohammadata-biet7522-hr-attrition-project-app-sibei6.streamlit.app/
 
 ---
 
